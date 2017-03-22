@@ -6,3 +6,5 @@
 *.csv
 
 \.vscode/
+
+yarpg\.py
