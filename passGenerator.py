@@ -3,6 +3,7 @@ import random
 from random import randint
 import codecs
 import string
+
 sCharsFlag = False
 
 def standartChars( repeats, sCharsFlag):
